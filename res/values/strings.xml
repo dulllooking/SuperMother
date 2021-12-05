@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuperMother</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_fln_enter1">FlnEnter1</string>
+    <string name="title_activity_fln_item2">FlnItem2</string>
+    <string name="title_activity_flnfrig_stack3">FlnfrigStack3</string>
+    <string name="title_activity_fnl_recipe4">FnlRecipe4</string>
+    <string name="title_activity_fnlcarediary5">Fnlcarediary5</string>
+    <string name="title_activity_fnldiray5">Fnldiray5</string>
+    <string name="title_activity_fnl_drink6">FnlDrink6</string>
+    <string name="title_activity_flnfrig_date_picker">FlnfrigDatePicker</string>
+
+</resources>
